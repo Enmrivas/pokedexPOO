@@ -1,6 +1,6 @@
 <?php
 
-interface IServiceBase{
+interface ServiceBase{
 
     public function GetById($id);
     public function GetList();

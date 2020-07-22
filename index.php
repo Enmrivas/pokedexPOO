@@ -98,7 +98,7 @@
 
             <?php else: ?>
 
-                <a style="margin: 2%;" class="btn btn-primary" href="assets/registro.php">Agregar Pokemon</a>
+                <a style="margin: 2%;" class="btn btn-primary" href="assets/pokemones/add.php">Agregar Pokemon</a>
 
             <?php endif; ?>
           </tbody>
@@ -145,7 +145,7 @@
 
                 <?php else: ?>
 
-                    <a style="margin: 2%;" class="btn btn-primary" href="assets/registro.php">Agregar Pokemon</a>
+                    <a style="margin: 2%;" class="btn btn-primary" href="assets/pokemones/add.php">Agregar Pokemon</a>
 
                 <?php endif; ?>
 
